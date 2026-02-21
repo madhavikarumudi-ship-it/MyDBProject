@@ -8,3 +8,6 @@
 ---
 [KLH](https://klh.edu.in/)
 > This is important note.
+
+- [x] Completed task
+- [ ] Pending task
